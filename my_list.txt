@@ -1,0 +1,5 @@
+"Tattoo"
+"Piercing"
+"Hair dye"
+"Scarification"
+"Plastic surgery"
